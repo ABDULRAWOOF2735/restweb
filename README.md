@@ -107,8 +107,10 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Ethos+1101211900](https://github.com/user-attachments/assets/6160c235-18b8-4982-8f7c-c4d8aea3c4b4)
-![Spicy-Penne-Pasta_-done](https://github.com/user-attachments/assets/8874bca0-d61a-408f-912f-83baba4c1332)
+![image](https://github.com/user-attachments/assets/ea196a7c-a5aa-48eb-9b1f-02c8ec543d03)
+
+![image](https://github.com/user-attachments/assets/a633af49-d3b4-44a4-b519-fe76b6b6e819)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
